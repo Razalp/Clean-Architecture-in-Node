@@ -126,7 +126,7 @@ project
 
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Razalp/Clean-Architecture-in-Node.git
    ```
 
 2. **Install Dependencies:**
